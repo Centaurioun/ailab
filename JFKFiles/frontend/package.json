@@ -23,7 +23,7 @@
     "babel-polyfill": "^6.26.0",
     "d3": "4.13.0",
     "downshift": "^1.28.0",
-    "express": "^4.16.3",
+    "express": "^5.1.0",
     "lodash.throttle": "^4.1.1",
     "material-ui": "1.0.0-beta.33",
     "material-ui-icons": "1.0.0-beta.17",
@@ -54,7 +54,7 @@
     "file-loader": "~1.1.5",
     "html-webpack-plugin": "~2.30.1",
     "if-env": "^1.0.4",
-    "node-sass": "^4.7.2",
+    "node-sass": "^9.0.0",
     "qs": "^6.5.1",
     "resolve-url-loader": "^2.3.0",
     "rimraf": "^2.6.2",
@@ -63,7 +63,7 @@
     "typescript": "^2.8.3",
     "url-loader": "~0.6.2",
     "webpack": "~3.8.1",
-    "webpack-dev-server": "^2.9.4",
+    "webpack-dev-server": "^5.2.2",
     "webpack-merge": "^4.1.1"
   }
 }
